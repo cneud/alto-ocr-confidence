@@ -1,3 +1,5 @@
+### This is no longer supported, please use https://github.com/cneud/alto-tools instead.
+
 # alto-ocr-confidence
 Calculates the OCR confidence score per page in [ALTO](http://www.loc.gov/standards/alto/) files. 
 
